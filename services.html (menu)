@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<nav>
+<h2>Dirty Dough Pizza Co</h2>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Menu</a></li>
+<li><a href="testimonials.html">Reviews</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<div class="container">
+<h1>Our Menu</h1>
+
+<div class="cards">
+
+<div class="card">
+<h3>Margherita</h3>
+<p>Tomato, mozzarella, basil, olive oil.</p>
+</div>
+
+<div class="card">
+<h3>Diavola</h3>
+<p>Spicy salami, mozzarella, chilli oil.</p>
+</div>
+
+<div class="card">
+<h3>Nduja Honey</h3>
+<p>Spicy nduja with sweet honey drizzle.</p>
+</div>
+
+</div>
+</div>
+
+<footer>
+<p>© 2026 Dirty Dough Pizza Co</p>
+</footer>
+
+</body>
+</html>
